@@ -97,6 +97,10 @@ Customer is likely to CHURN.
 
 ![Accuracy](accuracy.png)
 
+### Classification Report
+
+![Classification Report](ClassificationReport.png)
+
 ### Prediction
 
 ![Prediction](prediction.png)
