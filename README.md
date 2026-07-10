@@ -99,7 +99,7 @@ Customer is likely to CHURN.
 
 ### Classification Report
 
-![Classification Report](ClassificationReport.png)
+![Classification Report](Classification Report.png)
 
 ### Prediction
 
