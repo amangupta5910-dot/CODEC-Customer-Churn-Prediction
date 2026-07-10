@@ -95,15 +95,15 @@ Customer is likely to CHURN.
 
 ### Model Accuracy
 
-![Accuracy](images/accuracy.png)
+![Accuracy](accuracy.png)
 
 ### Prediction
 
-![Prediction](images/prediction.png)
+![Prediction](prediction.png)
 
 ### Graphs
 
-![Graphs](images/graphs.png)
+![Graphs](graphs.png)
 
 ## Author
 
