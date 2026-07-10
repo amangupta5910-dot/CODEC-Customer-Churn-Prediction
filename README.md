@@ -109,8 +109,12 @@ Customer is likely to CHURN.
 
 ![Graphs](graphs.png)
 
-## Author
+## 👨‍💻 Author
 
-Aman Gupta
-B.Tech CS
-3rd Year
+**Aman Gupta**
+
+B.Tech Computer Science
+
+3rd Year Student
+
+Codec Technologies Internship Project
